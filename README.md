@@ -4,7 +4,7 @@ Allows WhatsApp users on Android to extract their backed up WhatsApp data
 
 Requirement.
 
-Stp.1: Make Sure Android device with WhatsApp installed 
+Step.1: Make Sure Android device of victims has WhatsApp installed 
 
 Step.2: You Know The device's Android ID. Type This Command After connect ADB adb shell settings get secure android_id
 
